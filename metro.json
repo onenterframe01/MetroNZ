@@ -1,12 +1,19 @@
 [
   {
     "id": 1,
-      "name": "Daniel Levine",
+    "name": "Rea Calderero",
     "username": "Antonette",
-    "email": "daniel@gmail.com",
-    "phone1": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-  },
+    "email": "rea@gmail.com",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
   {
     "id": 2,
     "name": "Rea Calderero",
