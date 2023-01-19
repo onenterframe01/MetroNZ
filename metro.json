@@ -3,6 +3,7 @@
   {
     "id": 1,
     "name": "37 Tahapa Crescent Meadowbank",
+    "username": "Karianne",
     "email": "Meadowbank",
     "address": {
       "street": "Kulas Light",
@@ -25,6 +26,7 @@
   {
     "id": 2,
     "name": "20 Longbill Place",
+    "username": "Karianne",
     "email": "Glendene",
     "address": {
       "street": "Victor Plains",
@@ -47,6 +49,7 @@
   {
     "id": 3,
     "name": "25 Cleghorn Avenue",
+    "username": "Karianne",
     "email": "Mount Roskill,
     "address": {
       "street": "Douglas Extension",
