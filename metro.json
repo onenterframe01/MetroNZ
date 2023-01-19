@@ -1,9 +1,12 @@
+// 20230119201810
+// https://jsonplaceholder.typicode.com/users
+
 [
   {
     "id": 1,
-    "name": "37 Tahapa Crescent Meadowbank",
+    "name": "Leanne Graham",
     "username": "Bret",
-    "email": "Meadowbank",
+    "email": "Sincere@april.biz",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -24,9 +27,9 @@
   },
   {
     "id": 2,
-    "name": "20 Longbill Place",
+    "name": "Ervin Howell",
     "username": "Antonette",
-    "email": "Glendene",
+    "email": "Shanna@melissa.tv",
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
@@ -47,9 +50,9 @@
   },
   {
     "id": 3,
-    "name": "25 Cleghorne Avenue",
+    "name": "Clementine Bauch",
     "username": "Samantha",
-    "email": "Mount Roskill",
+    "email": "Nathan@yesenia.net",
     "address": {
       "street": "Douglas Extension",
       "suite": "Suite 847",
