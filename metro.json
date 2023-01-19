@@ -2,9 +2,8 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "name": "37 Tahapa Crescent Meadowbank",
+    "email": "Meadowbank",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -25,9 +24,8 @@
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "name": "20 Longbill Place",
+    "email": "Glendene",
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
@@ -48,9 +46,8 @@
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
+    "name": "25 Cleghorn Avenue",
+    "email": "Mount Roskill,
     "address": {
       "street": "Douglas Extension",
       "suite": "Suite 847",
