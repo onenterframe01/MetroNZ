@@ -1,11 +1,11 @@
 // 20230119201810
-//https://onenterframe01.github.io/MetroNZ/metro.json
+// https://onenterframe01.github.io/MetroNZ/metro.json
 
 [
   {
     "id": 1,
     "name": "37 Tahapa Crescent Meadowbank",
-    "username": "Karianne",
+    "username": "Bret",
     "email": "Meadowbank",
     "address": {
       "street": "Kulas Light",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "name": "20 Longbill Place",
-    "username": "Karianne",
+    "username": "Antonette",
     "email": "Glendene",
     "address": {
       "street": "Victor Plains",
@@ -50,9 +50,9 @@
   },
   {
     "id": 3,
-    "name": "25 Cleghorn Avenue",
-    "username": "Karianne",
-    "email": "Mount Roskill,
+    "name": "25 Cleghorne Avenue",
+    "username": "Samantha",
+    "email": "Mount Roskill",
     "address": {
       "street": "Douglas Extension",
       "suite": "Suite 847",
